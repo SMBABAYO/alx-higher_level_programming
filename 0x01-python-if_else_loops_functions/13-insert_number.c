@@ -4,8 +4,11 @@
 #include <unistd.h>
 /**
 * insert_node - insert a number
+*
 * @head: a linked list
+*
 * @number: number to insert
+*
 * Return: pointer
 */
 listint_t *insert_node(listint_t **head, int number)
