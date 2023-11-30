@@ -1,8 +1,4 @@
 #!/usr/bin/python3
-from variable_load import a
-
-def find_var():
-    print(a)
-
-if _name__ == "__main__":
-    find_var)
+from variable_load_5 import a
+if __name__ == "__main__":
+    print("{:d}".format(a))
